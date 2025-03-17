@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thatchakorn Rasamaneechok Thatchakorn Rasamaneechok Backend Developer from Thailand</h1>
+<h1 align="center">Hi 👋, I'm Thatchakorn Rasamaneechok Thatchakorn Rasamaneechok</h1>
 <h3 align="center">Backend Developer from Thailand</h3>
 
 <h3 align="left">Connect with me:</h3>
