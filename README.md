@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Thatchakorn Rasamaneechok Backend Developer from Thailand</h1>
-<h3 align="center">Striving to create seamless digital experiences through backend development.</h3>
+<h1 align="center">Hi 👋, I'm Thatchakorn Rasamaneechok Thatchakorn Rasamaneechok Backend Developer from Thailand</h1>
+<h3 align="center">Backend Developer from Thailand</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/thckornrsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thckornrsm" height="30" width="40" /></a>
-<a href="https://fb.com/thatchakorn rasamaneechok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thatchakorn rasamaneechok" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
