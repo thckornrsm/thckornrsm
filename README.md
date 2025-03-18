@@ -3,7 +3,7 @@
 
 ## About Me
 - 🔭 I’m currently working on backend development using **Node.js & MySQL**
-- 🌱 I’m currently learning **TypeScript & Progest**
+- 🌱 I’m currently learning **TypeScript & Postgres**
 - 💬 Ask me about **Backend Development, API Design, and Database Optimization**
 - 📫 Reach me at: **markedza099@gmail.com**
 
