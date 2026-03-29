@@ -1,32 +1,47 @@
-<h1 align="center">Hi 👋, I'm Thatchakorn Rasamaneechok</h1>
-<h3 align="center">Full Stack Developer from Thailand</h3>
+<h1 align="center">Thatchakorn Rasamaneechok</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  I enjoy building modern web applications from frontend to backend,  
-  with experience in creating responsive user interfaces, developing APIs,  
-  implementing authentication systems, and working with relational databases.
+  Recent Information Technology graduate from Kasetsart University, Kamphaeng Saen Campus,
+  with hands-on experience in frontend and backend development through internship and real-world projects.
+  Interested in building modern web applications and continuously strengthening backend development skills.
 </p>
 
 ---
 
 ## About Me
 
-- 💼 Full Stack Developer with experience in both frontend and backend development
-- 🔭 I have worked on projects using **JavaScript, React, Next.js, Vue, Nuxt.js, Tailwind CSS, Node.js, Express, PostgreSQL, and Prisma ORM**
-- 🔐 Familiar with authentication and security using **JWT** and **Bcrypt**
-- 🌱 Currently expanding my backend skills by learning **Nest.js**, **TypeScript**, and deeper backend architecture concepts
-- 💬 Ask me about **Full Stack Development, REST APIs, Authentication, and Database Design**
-- 📫 Reach me at: **thatchakorn.rmc@gmail.com**
+I am a Full Stack Developer with practical experience in both frontend and backend development.  
+My background includes building responsive user interfaces, developing API-driven features, implementing authentication systems, and working with relational databases.  
+I am currently focused on improving my backend knowledge in TypeScript, Nest.js, and software architecture to grow as a more well-rounded developer.
 
 ---
 
-## Connect with Me
+## Technical Skills
 
-<p align="left">
-  <a href="https://www.facebook.com/thckornrsm/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-</p>
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS, Nuxt UI
+- **Backend:** Node.js, Express.js, REST API
+- **Database:** PostgreSQL, Prisma ORM, MySQL
+- **Security:** JWT, Bcrypt
+- **Tools:** Git, GitHub, Docker, Postman
+
+---
+
+## Areas of Interest
+
+- Full Stack Web Development
+- Frontend Development
+- Backend Development
+- RESTful API Design
+- Authentication and Authorization
+- Database Design
+
+---
+
+## Contact
+
+- **Email:** thatchakorn.rmc@gmail.com
+- **Facebook:** [thckornrsm](https://www.facebook.com/thckornrsm/)
 
 ---
 
